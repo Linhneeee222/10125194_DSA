@@ -1,4 +1,4 @@
-# Bài tập CTDL&GT – 211131
+# Bài tập Cấu trúc dữ liệu và giải thuật – 211131
 - Họ tên: Nguyễn Tuấn Linh
 - MSV: 10125194
 - Lớp: 12425TN
